@@ -11,7 +11,7 @@ letter-spacing: -0.05em !important;
 
 animation: snow 20s linear infinite;
 
-background-image:url("https://upload.tgd.kr/20190416/8a6cf199f20917c48d3c23af9b5c5dd2.png"), url("https://upload.tgd.kr/20190416/d9a3e6c46ea843eff47a4789b8a3d7cb.png");
+background-image:url("https://cdn.discordapp.com/attachments/638142012582789134/649621162917232642/8a6cf199f20917c48d3c23af9b5c5dd2.png"), url("https://cdn.discordapp.com/attachments/638142012582789134/649621163483332639/d9a3e6c46ea843eff47a4789b8a3d7cb.png");
 
 }
 
@@ -42,7 +42,7 @@ background-image:url("https://upload.tgd.kr/20190416/8a6cf199f20917c48d3c23af9b5
   }
 }
 
-/* ·Î°í ¿¹Á¤ */
+/* ë¡œê³  ì˜ˆì • */
 
 header:before {
     display: block;
@@ -57,7 +57,7 @@ header:before {
     margin-bottom: 15px;
 }
 
-/* ¸¶¿ì½º Ä¿¼­ Æ÷ÀÎÅÍ */
+/* ë§ˆìš°ìŠ¤ ì»¤ì„œ í¬ì¸í„° */
 
 html,
 
@@ -80,7 +80,7 @@ input[type=radio],
  cursor: url(https://cdn.discordapp.com/attachments/638142012582789134/648317403494744094/c.png) 0 0, auto !important;
 }
 
-/* ÀüÃ¼ ½¦µµ¿ì */
+/* ì „ì²´ ì‰ë„ìš° */
 
 header #header-bar>.row,
 #main .menu-wrapper,
@@ -88,7 +88,7 @@ header #header-bar>.row,
   box-shadow: 3px 0px 10px rgba(0, 0, 0, 0.2);
 }
 
-/* ·Î°í¹Ø NAV bar */
+/* ë¡œê³ ë°‘ NAV bar */
 
 header #header-bar>.row {
   border-top: 0px solid #163075;
@@ -96,7 +96,7 @@ header #header-bar>.row {
   border-bottom: none;
 }
 
-/* Çì´õ ¹è³Ê */
+/* í—¤ë” ë°°ë„ˆ */
 
 header .row>div:nth-child(1)>a {
   display: block;
@@ -113,7 +113,7 @@ header .row>div:nth-child(1)>a>img {
   opacity: 0.8;
 }
 
-/* ºä¾î */
+/* ë·°ì–´ */
 
 #board-info #viewers-area .fa-user:before {
 
@@ -137,7 +137,7 @@ header .row>div:nth-child(1)>a>img {
 #viewers:before{
     font-size: 14px !important;
 
-    content: "¾ß¹ã´Ü¿ø ";
+    content: "ì•¼ë°¤ë‹¨ì› ";
 
     color: #293542;
 
@@ -147,7 +147,7 @@ header .row>div:nth-child(1)>a>img {
 #viewers:after{
     font-size: 14px !important;
 
-    content: "3¸íÀÌ ´Ş¹ãÀ» ºñÃß´ÂÁß";
+    content: "3ëª…ì´ ë‹¬ë°¤ì„ ë¹„ì¶”ëŠ”ì¤‘";
 
     color: #293542;
 
@@ -184,7 +184,7 @@ small.favo i.fa.fa-heart {
 }
 
 
-/*»ó´Ü ÇÁ·ÎÇÊ »çÁø,ÀÚ¸· ÁÂ¿ì ¹Ù²Ù±â*/
+/*ìƒë‹¨ í”„ë¡œí•„ ì‚¬ì§„,ìë§‰ ì¢Œìš° ë°”ê¾¸ê¸°*/
 #board-info {
 
     overflow: visible;
@@ -215,7 +215,7 @@ small.favo i.fa.fa-heart {
 }
 
 
-/*ÀÎÆ÷¿µ¿ª*/
+/*ì¸í¬ì˜ì—­*/
 
 #board-info {
     height: auto;
@@ -256,7 +256,7 @@ small.favo i.fa.fa-heart {
 
 
 
-/* ÀÛ¼ºÀÚ (½ºÆ®¸®¸Ó=»¡°£ Ä·ÄÚ´õ) */
+/* ì‘ì„±ì (ìŠ¤íŠ¸ë¦¬ë¨¸=ë¹¨ê°„ ìº ì½”ë”) */
 
 
 
@@ -268,7 +268,7 @@ img[src="https://static-cdn.jtvnw.net/chat-badges/broadcaster.png"] {
 
 }
 
-/* ÀÛ¼ºÀÚ (½ºÆ®¸®¸Ó=»¡°£ Ä·ÄÚ´õ) */
+/* ì‘ì„±ì (ìŠ¤íŠ¸ë¦¬ë¨¸=ë¹¨ê°„ ìº ì½”ë”) */
 
 
 
@@ -281,7 +281,7 @@ img[src="https://static-cdn.jtvnw.net/chat-badges/broadcaster.png"] {
 }
 
 
-/* ÀÛ¼ºÀÚ (°Ô½ÃÆÇ °ü¸®ÀÚ=µµ³¢) */
+/* ì‘ì„±ì (ê²Œì‹œíŒ ê´€ë¦¬ì=ë„ë¼) */
 
 
 
@@ -293,7 +293,7 @@ img[src="https://static-cdn.jtvnw.net/chat-badges/globalmod.png"] {
 
 
 
-/* ÀÛ¼ºÀÚ (Æ®°Ô´õ °ü¸®ÀÚ=ÁøÀº°Ë) */
+/* ì‘ì„±ì (íŠ¸ê²Œë” ê´€ë¦¬ì=ì§„ì€ê²€) */
 
 
 
@@ -303,13 +303,13 @@ img[src="https://static-cdn.jtvnw.net/chat-badges/mod.png"] {
 
 }
 
-/* °Ë»öÆû º¸´õ */
+/* ê²€ìƒ‰í¼ ë³´ë” */
 
 header #right-search-form>input[type='text'] {
   border: 0px solid #163075;
 }
 
-/* Æ®°Ô´õ ÀüÃ¼¸Ş´º / À¯¿ëÇÑ¸µÅ© / Æ®À§Ä¡ ½ºÄÉÁì */
+/* íŠ¸ê²Œë” ì „ì²´ë©”ë‰´ / ìœ ìš©í•œë§í¬ / íŠ¸ìœ„ì¹˜ ìŠ¤ì¼€ì¥´ */
 
 #main .menu-wrapper>.header {
   background: #163075;
@@ -336,7 +336,7 @@ header #header-bar>.row,
   border: none;
 }
 
-/*¸Ş´º*/
+/*ë©”ë‰´*/
 #main #main-menu{border-top: 0px solid #ffffff ;border-bottom: 0px solid #ffffff}
 #main .menu-wrapper > .header {
     background: transparent;
@@ -366,44 +366,44 @@ header #header-bar>.row,
 
 
 
-/* ÁÂÃø¸Ş´º ¼ôÄÆ¸µÅ© ±Û¾¾ »ö»ó */
+/* ì¢Œì¸¡ë©”ë‰´ ìˆì»·ë§í¬ ê¸€ì”¨ ìƒ‰ìƒ */
 
 #main .menu-wrapper>a>em {
   color: #163075;
 }
 
-/* ÁÂÃø¸Ş´º ¸Ş´º»çÀÌÀÇ °ø°£ »ö»ó */
+/* ì¢Œì¸¡ë©”ë‰´ ë©”ë‰´ì‚¬ì´ì˜ ê³µê°„ ìƒ‰ìƒ */
 
 #main .menu-wrapper .spacer {
   background: #ffffff;
   height: 0.15em;
 }
 
-/* Çì´õ °Ë»ö ¹öÆ° */
+/* í—¤ë” ê²€ìƒ‰ ë²„íŠ¼ */
 
 header #right-search-form>#right-search-btn {
   color: #163075;
 }
 
-/* Çì´õ [±¤°í]¹è°æ»ö */
+/* í—¤ë” [ê´‘ê³ ]ë°°ê²½ìƒ‰ */
 
 header #header-bar #header-top-notice strong.notice-badge {
   background: #163075;
 }
 
-/* fa»ö»ó */
+/* faìƒ‰ìƒ */
 
 header #header-bar .fa {
   color: #163075;
 }
 
-/* ½ºÆ®¸®¸Ó °Ô½ÃÆÇ »ó´Ü Á¤º¸ ±Û¾¾»ö»ó */
+/* ìŠ¤íŠ¸ë¦¬ë¨¸ ê²Œì‹œíŒ ìƒë‹¨ ì •ë³´ ê¸€ì”¨ìƒ‰ìƒ */
 
 #board-info #board-info-bottom a {
   color: #163075;
 }
 
-/* °Ô½Ã±Û °ü·ÃºÎºĞ */
+/* ê²Œì‹œê¸€ ê´€ë ¨ë¶€ë¶„ */
 
 #article-list>.article-list-row>.item>.list-title>.list-writer>span {
   width: 120px !important;
@@ -411,7 +411,7 @@ header #header-bar .fa {
 
 
 
-/*°Ô½ÃÆÇ ÅÜ¸Ş´º*/
+/*ê²Œì‹œíŒ í…ë©”ë‰´*/
 #article-list{
     background: #ffffff;
 }
@@ -445,14 +445,14 @@ header #header-bar .fa {
     color: #163075;
 }
 
-/*°øÁö»çÇ×*/
+/*ê³µì§€ì‚¬í•­*/
 #article-list > .article-list-row.notice {
     background-color: #fff;
     border: 2px solid #163075;
     margin-bottom: 5px;
 }
 
-/*ÀÎ±â±Û*/
+/*ì¸ê¸°ê¸€*/
 #article-list > .article-list-row.hot {
     background-color: #fff;
     border: 1px solid #163075;
@@ -540,7 +540,7 @@ span.a-badge i.fa.fa-info-circle {
 }
 
 
-/*°Ô½Ã±Û È£¹ö*/
+/*ê²Œì‹œê¸€ í˜¸ë²„*/
 #article-list .article-list-row:hover{
     transform: scale(1.025);
     box-shadow: #163075 0px 0px 12px 0px;
@@ -552,7 +552,7 @@ span.a-badge i.fa.fa-info-circle {
     transition: all 0.35s;
 }
 
-/*°Ô½Ã±Û ¹ØÁÙ*/
+/*ê²Œì‹œê¸€ ë°‘ì¤„*/
 #article-list > .article-list-row > .item > .list-checkbox,
 #article-list > .article-list-row > .item > .list-header,
 #article-list > .article-list-row > .item > .list-category,
@@ -580,7 +580,7 @@ span.a-badge i.fa.fa-info-circle {
   height: unset;
 }
 
-/*½ºÅ©·Ñ*/
+/*ìŠ¤í¬ë¡¤*/
 #movetotop img {
     display: none
 }
